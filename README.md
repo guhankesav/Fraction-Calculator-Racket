@@ -1,7 +1,7 @@
 15CSE402 Structure and Interpretation of Computer Programs
 
 
-Your task is to implement a fraction calculator in Racket. It is expected that the calculator should be capable of handling proper fraction, improper fraction and mixed fractions.
+Task is to implement a fraction calculator in Racket. It is expected that the calculator should be capable of handling proper fraction, improper fraction and mixed fractions.
 
 - The calculator should be capable of doing all the necessary arithmetic: addition, subtraction, multiplication, division, inversion, equality, conversion between types of fractions etc.
 - The calculator should reduce the resultant fractions to their lowest terms
